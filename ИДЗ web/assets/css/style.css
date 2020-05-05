@@ -13,6 +13,13 @@ body{
 	box-sizing: border-box;
 }
 
+h1{
+	font-family: 'Russo One', sans-serif;
+	font-size: 82px;
+	position: flex;
+	text-align: center;
+	padding-top: 200px;
+}
 /*   Header   */
 .header{
 	padding-top: 5px;
