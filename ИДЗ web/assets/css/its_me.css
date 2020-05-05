@@ -1,0 +1,48 @@
+body{
+	font-family: 'Neucha', cursive;
+	font-size: 25px;
+	line-height: 1.6;
+	color: #fff;
+	margin: 0;
+	background: #1C0772;
+}
+
+.table{
+	font-size: 14px;
+	width: 300px;
+	text-align: center;
+	border-collapse: collapse;
+	background: #252F48;
+	margin: 10px;
+}
+
+.table td {
+  border-bottom: 1px solid #6549D7;
+  border-right:1px solid #6549D7;
+  padding: 7px 17px;
+}
+
+a{
+  display: inline-block;
+  color: white;
+  font-weight: 700;
+  text-decoration: none;
+  user-select: none;
+  padding: .5em 2em;
+  outline: none;
+  border: 2px solid;
+  border-radius: 1px;
+  transition: 0.2s;
+} 
+a:hover { background: rgba(255,255,255,.2); }
+a:active { background: white; }
+
+.block1{
+    float: left;
+}
+.block2{
+    float: right;
+}
+.block3{
+	align-content: center;
+}

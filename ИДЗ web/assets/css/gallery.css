@@ -1,0 +1,12 @@
+body{
+	background: #333;
+}
+
+.images_style{
+	position: flex;
+	height: 400px;
+	width:  600px;
+	margin-left: 300px;
+	margin-top: 50px;
+	border-radius: 30px;
+}
